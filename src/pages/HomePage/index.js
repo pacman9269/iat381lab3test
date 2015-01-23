@@ -38,7 +38,7 @@ module.exports = React.createClass({
   render: function () {
     return (
       <div className='home-page'>
-        Cool
+        This is the body text
       </div>
     );
   }

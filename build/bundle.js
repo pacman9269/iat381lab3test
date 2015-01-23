@@ -27824,7 +27824,7 @@ module.exports = React.createClass({displayName: "exports",
   render: function () {
     return (
       React.createElement("div", {className: "home-page"}, 
-        "Cool"
+        "This is the body text"
       )
     );
   }
