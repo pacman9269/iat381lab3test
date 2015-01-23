@@ -15,13 +15,13 @@ var HomePage = require('./pages/HomePage');
 
 var menuItems = [
   // inject:menuitems
-  { payload: 'home', text: 'whatever' },
+  { payload: 'home', text: 'Modified text'},
   // endinject
 ];
 
 var titles = {
   // inject:titles
-  '/home': 'whatever',
+  '/home': 'Modified title, Hello Internet',
   // endinject
 };
 
